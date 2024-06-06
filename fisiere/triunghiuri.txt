@@ -1,0 +1,6 @@
+RAMAS verde 3 5 5 5 1.65
+COMANDAT albastru 3 9 5 9 1.18
+RAMAS albastru 3 11 8 9 2
+PRIMIT galben 3 6 13 10 1.19
+COMANDAT mov 3 13 13 13 3.13
+COMANDAT verde 3 7 7 7 1.76

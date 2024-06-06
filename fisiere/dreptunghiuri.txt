@@ -1,0 +1,6 @@
+COMANDAT,rosu,4,6,4,2
+PRIMIT,rosu,4,7,5,1.5
+PRIMIT,verde,4,8,3,2
+COMANDAT,albastru,4,9,8,3
+COMANDAT,galben,4,7,4,2
+COMANDAT,alb,4,9,5,2.25
